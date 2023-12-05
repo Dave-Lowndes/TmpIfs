@@ -18,12 +18,12 @@ It outputs the following items:
 
 ## Installation
 
-There is no installation - just copy the TmpIfs.exe program to a sub-directory of your hard disk and run it from there.
+There is no installation - just open the zip file, extract the TmpIfs.exe program to a sub-directory of your hard disk and run it from there in a command prompt window.
 
 
 ## How Do You Use TmpIfs?
 
-From the sub-folder where you've installed it just enter the command. There are no command line options.
+From the sub-directory where you've installed it just enter the command. There are no command line options.
 
 Since there are normally a lot of files in the Temporary Internet Folders you'll want to pipe the output to a file like this:
 
@@ -37,7 +37,7 @@ Just delete the TmpIfs.exe file.
 
 ## Revision History
 
-**V1.2.1.0 4 Dec 2023**
+**V1.2.1.0 5 Dec 2023**
 Removed licensing, updated source code and made public.
 
 **V1.2.0.0  3 Feb 2007**
